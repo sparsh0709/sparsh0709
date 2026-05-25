@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋, I'm Sparsh
 
-<!--
-**sparsh0709/sparsh0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BTech CSE Student
+- 💻 Java Developer & DevOps Enthusiast
+- ☁️ Learning AWS, Docker & CI/CD
+- 🌱 Currently improving DSA and System Design
+- ⚡ Interested in Backend Development & Cloud Infrastructure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- C++
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- React
+- Tailwind CSS
+
+### Backend
+- Spring Boot
+- REST APIs
+
+### DevOps & Cloud
+- Git & GitHub
+- Docker
+- AWS
+- Linux
+- GitHub Actions
+
+### Database
+- MySQL
+- PostgreSQL
+
+---
+
+## 📌 Current Goals
+- Solving DSA problems daily
+- Building full-stack DevOps projects
+- Learning Kubernetes & CI/CD pipelines
+- Contributing to open source
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: add-your-link-here
+- LeetCode: add-your-link-here
