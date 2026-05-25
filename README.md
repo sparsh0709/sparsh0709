@@ -50,5 +50,5 @@
 
 ## 🔗 Connect With Me
 
-- LinkedIn: add-your-link-here
-- LeetCode: add-your-link-here
+- LinkedIn: [add-your-link-here](https://www.linkedin.com/in/sparsh-thapan-609320232/)
+- LeetCode: [add-your-link-here](https://leetcode.com/u/sparsh_/)
